@@ -13,4 +13,4 @@ if (process.env.JAWSB_URL) {
         }
 
 
-model.eports = sequelize
+module.exports = sequelize
