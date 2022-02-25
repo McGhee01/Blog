@@ -1,23 +1,22 @@
 {
-  "name": "Tech-Blogg",
+  "name": "Blog",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/McGhee01/Tech-Blogg.git"
+    "url": "git+https://github.com/McGhee01/Blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/McGhee01/Tech-Blogg/issues"
+    "url": "https://github.com/McGhee01/Blog/issues"
   },
-  "homepage": "https://github.com/McGhee01/Tech-Blogg#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.2",
